@@ -1,0 +1,10 @@
+Statistic Measure,SVM(BoW),SVM(SVD),SVM(W2V),RandomForest (BoW),RandomForest(SVD),RandomForest(W2V)
+Accuracy,0.942,0.937,0.948,0.892,0.894,0.912
+Precision,0.941,0.934,0.943,0.894,0.895,0.906
+Recall,0.934,0.928,0.943,0.871,0.877,0.901
+,,,,,,
+,,,,,,
+Statistic Measure,My Method,,,,,
+Accuracy,0.955,,,,,
+Precision,0.951,,,,,
+Recall,0.951,,,,,
